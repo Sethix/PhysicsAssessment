@@ -1,0 +1,36 @@
+Guns
+	Ammo
+	FireRate
+
+Accesories
+	player parameter change
+	grapple
+	dash
+	extra hit
+	cooldown
+
+Bullets
+	Speed
+	Damage self?
+	Destroy on collision?
+	If not, life time?
+	If so, number of collisions?
+	
+Players
+	Speed
+	Jump strength
+	In control?
+
+Planets
+	Physics materials
+	Can be destroyed
+	Gravity force
+	Orbital range
+
+Objects
+	Weapon Spawner
+	Explosives
+
+Match Data
+	Win loss
+	Lobby

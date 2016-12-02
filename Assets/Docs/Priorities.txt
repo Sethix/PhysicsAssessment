@@ -1,0 +1,30 @@
+Justin
+	Player
+	Bullets base
+	Planets base
+	Accessory base
+	Networking
+
+
+Tung
+	Grappling Accessory
+	UI
+	Tripple back flips GET IT DONE
+
+
+Ben
+	Ragdolls
+	Melee
+	Dash Accessory
+
+
+
+Arthur
+	Vortex gun / wind forces
+	Explosions
+
+
+Riley
+	Planetary collision
+	Planet extended
+	
